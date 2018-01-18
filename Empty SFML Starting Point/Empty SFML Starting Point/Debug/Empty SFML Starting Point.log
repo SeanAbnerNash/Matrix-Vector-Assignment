@@ -1,0 +1,5 @@
+﻿  Vector3.cpp
+  Matrix3.cpp
+  main.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'kernel32.lib'
